@@ -1,5 +1,8 @@
 # mon-classeur
-un endroit ou répétorier
+un endroit ou répertorier
+
+![une image](image.jpeg)
+
 5
 Un dépot pour gérer mes cours...
 T Retour en haut de la page
