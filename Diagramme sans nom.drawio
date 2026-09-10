@@ -1,0 +1,33 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="I3Ym9hUzoNM387cvyMom">
+    <mxGraphModel dx="1406" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="xEiemEvIGfaQCvA_U3qs-18" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="" vertex="1">
+          <mxGeometry height="60" width="60" x="600" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="xEiemEvIGfaQCvA_U3qs-19" parent="1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="eau" vertex="1">
+          <mxGeometry height="30" width="80" x="610" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="xEiemEvIGfaQCvA_U3qs-20" parent="1" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;rotation=90;fillColor=#fff2cc;strokeColor=#d6b656;" value="" vertex="1">
+          <mxGeometry height="70" width="70" x="570" y="395" as="geometry" />
+        </mxCell>
+        <mxCell id="xEiemEvIGfaQCvA_U3qs-21" parent="1" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="Réseau électrique" vertex="1">
+          <mxGeometry height="30" width="150" x="570" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="xEiemEvIGfaQCvA_U3qs-23" edge="1" parent="1" source="xEiemEvIGfaQCvA_U3qs-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xEiemEvIGfaQCvA_U3qs-22" parent="1" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;" value="Utilisateur" vertex="1">
+          <mxGeometry height="35" width="30" x="70" y="395" as="geometry" />
+        </mxCell>
+        <mxCell id="xEiemEvIGfaQCvA_U3qs-25" parent="1" style="shape=note;size=20;whiteSpace=wrap;html=1;align=left;" value="&lt;font size=&quot;1&quot;&gt;L&#39;eau appariat implicitement&lt;/font&gt;" vertex="1">
+          <mxGeometry height="130" width="150" x="540" y="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
