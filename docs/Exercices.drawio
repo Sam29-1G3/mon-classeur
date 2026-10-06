@@ -1,0 +1,91 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="n_PnBwSdpLfL2HASVWxh">
+    <mxGraphModel dx="2054" dy="1198" grid="1" gridSize="14" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="HEhNe20Cw6UWkY6SuyNU-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="93" width="749" x="30" y="772.5" as="geometry" />
+        </mxCell>
+        <mxCell id="HEhNe20Cw6UWkY6SuyNU-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="20" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="5Ded3t2n7d6laOAthyui-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=32;" value="Exercice 1 :" vertex="1">
+          <mxGeometry height="30" width="170" x="20" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5Ded3t2n7d6laOAthyui-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=32;" value="Exercice 2 :" vertex="1">
+          <mxGeometry height="30" width="170" x="20" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="5Ded3t2n7d6laOAthyui-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=32;" value="Exercice 3 :" vertex="1">
+          <mxGeometry height="30" width="170" x="20" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="5Ded3t2n7d6laOAthyui-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=32;" value="Exercice 4 :" vertex="1">
+          <mxGeometry height="30" width="170" x="20" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="5Ded3t2n7d6laOAthyui-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=32;" value="Exercice 5 :" vertex="1">
+          <mxGeometry height="30" width="170" x="20" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="5Ded3t2n7d6laOAthyui-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=32;" value="Exercice 6 :" vertex="1">
+          <mxGeometry height="30" width="170" x="25" y="882" as="geometry" />
+        </mxCell>
+        <mxCell id="5Ded3t2n7d6laOAthyui-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=32;" value="Exercice 7 :" vertex="1">
+          <mxGeometry height="30" width="170" x="20" y="950" as="geometry" />
+        </mxCell>
+        <mxCell id="5Ded3t2n7d6laOAthyui-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;$$E_{utilisée} + E_{perdue} = E_{absorbée}$$&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="420" y="125" as="geometry" />
+        </mxCell>
+        <mxCell id="5Ded3t2n7d6laOAthyui-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;$$270 + 30 = 300$$&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="186" x="414" y="125" as="geometry" />
+        </mxCell>
+        <mxCell id="5Ded3t2n7d6laOAthyui-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="rendement" vertex="1">
+          <mxGeometry height="30" width="80" x="40" y="425" as="geometry" />
+        </mxCell>
+        <mxCell id="5Ded3t2n7d6laOAthyui-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="$$\eta$$" vertex="1">
+          <mxGeometry height="30" width="60" x="155" y="425" as="geometry" />
+        </mxCell>
+        <mxCell id="ReSNTyVnmzY1SfMB6oUY-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=20;" value="$$E = P \times t$$" vertex="1">
+          <mxGeometry height="30" width="170" x="30" y="275" as="geometry" />
+        </mxCell>
+        <mxCell id="ReSNTyVnmzY1SfMB6oUY-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=20;" value="$$P = \frac{E}{t}$$" vertex="1">
+          <mxGeometry height="30" width="60" x="414" y="275" as="geometry" />
+        </mxCell>
+        <mxCell id="HEhNe20Cw6UWkY6SuyNU-3" edge="1" parent="1" source="HEhNe20Cw6UWkY6SuyNU-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="HEhNe20Cw6UWkY6SuyNU-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HEhNe20Cw6UWkY6SuyNU-5" edge="1" parent="1" source="HEhNe20Cw6UWkY6SuyNU-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="HEhNe20Cw6UWkY6SuyNU-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HEhNe20Cw6UWkY6SuyNU-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Energie electrique" vertex="1">
+          <mxGeometry height="42" width="105" x="27.5" y="689" as="geometry" />
+        </mxCell>
+        <mxCell id="HEhNe20Cw6UWkY6SuyNU-2" parent="1" style="whiteSpace=wrap;html=1;" value="Energie&amp;nbsp; lumineuse" vertex="1">
+          <mxGeometry height="60" width="120" x="197.5" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="HEhNe20Cw6UWkY6SuyNU-8" edge="1" parent="1" source="HEhNe20Cw6UWkY6SuyNU-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="HEhNe20Cw6UWkY6SuyNU-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HEhNe20Cw6UWkY6SuyNU-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Alimenter&lt;div&gt;(Réseau électrique)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="55" y="789" as="geometry" />
+        </mxCell>
+        <mxCell id="HEhNe20Cw6UWkY6SuyNU-10" edge="1" parent="1" source="HEhNe20Cw6UWkY6SuyNU-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="HEhNe20Cw6UWkY6SuyNU-9" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HEhNe20Cw6UWkY6SuyNU-7" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Distribuer&lt;div&gt;(cables)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="255" y="789" as="geometry" />
+        </mxCell>
+        <mxCell id="HEhNe20Cw6UWkY6SuyNU-12" edge="1" parent="1" source="HEhNe20Cw6UWkY6SuyNU-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="HEhNe20Cw6UWkY6SuyNU-11" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HEhNe20Cw6UWkY6SuyNU-9" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Convertir&lt;div&gt;(lampe)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="455" y="789" as="geometry" />
+        </mxCell>
+        <mxCell id="HEhNe20Cw6UWkY6SuyNU-11" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="transmettre&lt;div&gt;(lampe)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="655" y="789" as="geometry" />
+        </mxCell>
+        <mxCell id="HEhNe20Cw6UWkY6SuyNU-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;chaînes" vertex="1">
+          <mxGeometry height="30" width="320" x="255" y="852" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
