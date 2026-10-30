@@ -8,6 +8,8 @@ Il fut étudiant à grenoble en premier lieu. Son père est nommé à un poste d
 et ingénieur civil de l'École nationale supérieure des télécommunications. Avec l'acteur Franck Cabot-David et monte avec lui la société Ciné Magma production où il y restera jusqu'en 1989. 
 
 Après avoir été au Ciné Magma, il commença à s'intéresser au réchauffement climatique et grâce à cela il développa le célèbre "bilan carbone" pour les professionnels et les entreprises. Grâce 
- Benjamin Dessus il a pu travaillé pour l'Ademe et entre 2000 et 2004, il créa la méthode de carbone personnel cette fois-ci.
+Benjamin Dessus il a pu travaillé pour l'Ademe et entre 2000 et 2004, il créa la méthode de carbone personnel cette fois-ci.
+
+En 2007, il fonda le carbone 4, un cabinet des avocats qui vendent des bilans carbone et des plans pour réduire leurs émissions de gaz à effets de serre
 
  
