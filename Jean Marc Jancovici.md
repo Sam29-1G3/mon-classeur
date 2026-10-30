@@ -23,4 +23,8 @@ Depuis 2008, il travaille en tant que enseignant dans le supérieur à  [l’Éc
 où il parle de changement climatiaque avec ces élèves.
 
 En tant que personnage public, Jean Marc Jancovici est souvent dénoncer pour des prises de position jugés problématiques comme sur la minimisations du nucléaire avec des accidents tels que Tchernobyle ou Fukushima.
-Les associations Sortir du nucléaire ou le média Reporterre dénoce aussi sa prise de position sur la gestion des déchets radioactifs après la fission nucléaire  
+Les associations Sortir du nucléaire ou le média Reporterre dénonce aussi sa prise de position sur la gestion des déchets radioactifs après la fission nucléaire. Il affirme régulièrement que l'éolien et le solaire 
+ne peuvent pas remplacer le nucléaire en raison de leur irrégularité. Il est accusé de faire des calculs faussés (notamment sur le nombre d'éolienne qu'ils faudraient pour alimenter la France) pour ainsi dénigrer
+les autres énergies renouvelables et faire passer sa vision des choses. Et enfin, plusieurs collectifs de chercheurs et spécialistes de l'énergie ont pointé du doigt des approximations majeures dans la bande 
+dessinée Le Monde sans fin, notamment concernant le coût et l'emprise spatiale des énergies renouvelables. De plus, la posture de Jean-Marc Jancovici agace une partie de la communauté scientifique en raison de
+l'utilisation abusive des lois de la physique et d'un traitement parfois professoral de ses contradicteurs.
