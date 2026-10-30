@@ -13,7 +13,7 @@ Benjamin Dessus il a pu travaillé pour l'Ademe et entre 2000 et 2004, il créa 
 En 2006, il cofonde les Entretiens de Combloux avec Jean-Louis Caffier et Hervé Le Treut pour former des dirigeants de rédactions aux enjeux climatiques et énergétiques.
 Ce séminaire accueille de grandes figures du journalisme français jusqu'en 2014. Vous pouvez consulter les détails de sa biographie en ligne.
 
-![une image]
+![hervé](Monsieur_Hervé_Le_Treut.JPG)
 
 En 2007, il fonda le carbone 4, un cabinet des avocats qui vendent des bilans carbone et des plans pour réduire leurs émissions de gaz à effets de serre. En fait c'est même le premier cabinet de ce genre,
 c'est le premier cabinet de stratégie carbone.
